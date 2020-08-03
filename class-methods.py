@@ -1,5 +1,5 @@
 #------------------------------
-# CLASS FUNCTIONS
+# A FUNCTION WITHIN A CLASS
 #------------------------------
 
 
